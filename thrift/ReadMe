@@ -1,0 +1,7 @@
+this is thrift demo based on Java language,which i hava 2 computer:
+one for Client:localhost.
+one for Server:100.0.2.187
+
+before u compile&run this client.java,u should:
+1.install thrift compiler on server.
+2.generate java file.
